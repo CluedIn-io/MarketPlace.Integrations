@@ -1,3 +1,11 @@
-- CluedIn-io/CluedIn.Crawling.HelloWorld
-- CluedIn-io/CluedIn.Crawling.Hubspot
-- CluedIn-io/CluedIn.Crawling.NotHubspot
+# MarketPlace.Integrations
+
+This repo is used as source for the [MarketPlace](https://cluedin-marketplace.herokuapp.com)
+
+
+### How to add integrations ?
+
+Submit a PR where you add an entry in `source.json`
+
+(see this [example PR](https://github.com/CluedIn-io/MarketPlace.Integrations/pulls/1))
+
