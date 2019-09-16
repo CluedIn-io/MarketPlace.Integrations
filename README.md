@@ -1,0 +1,3 @@
+- CluedIn-io/CluedIn.Crawling.HelloWorld
+- CluedIn-io/CluedIn.Crawling.Hubspot
+- CluedIn-io/CluedIn.Crawling.NotHubspot
