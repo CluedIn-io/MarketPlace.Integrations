@@ -1,4 +1,4 @@
-# MarketPlace.Integrations
+# MarketPlace.Store
 
 This repo is used as source for the [MarketPlace](https://cluedin-marketplace.herokuapp.com)
 
@@ -7,5 +7,5 @@ This repo is used as source for the [MarketPlace](https://cluedin-marketplace.he
 
 Submit a PR where you add an entry in `source.json`
 
-(see this [example PR](https://github.com/CluedIn-io/MarketPlace.Integrations/pull/1))
+(see this [example PR](https://github.com/CluedIn-io/MarketPlace.Store/pull/1))
 
