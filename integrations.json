@@ -1,0 +1,6 @@
+[
+  { "name": "CluedIn-io/CluedIn.Crawling.HelloWorld" },
+  { "name": "CluedIn-io/CluedIn.Crawling.Hubspot" },
+  { "name": "CluedIn-io/CluedIn.Crawling.NotHubspot" },
+  { "name": "github/hub" }
+]
