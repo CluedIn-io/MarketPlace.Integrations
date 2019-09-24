@@ -23,7 +23,7 @@ Enrichers enables CluedIn to connect to an external product and enhance/enricher
 
 Submit a PR where you add an entry in [`connectors.json`](https://github.com/CluedIn-io/MarketPlace.Store/blob/master/connectors.json)
 
-(see this [example PR](https://github.com/CluedIn-io/MarketPlace.Store/pull/1))
+( see this [example PR](https://github.com/CluedIn-io/MarketPlace.Store/pull/3) )
 
 ### How to submit an enricher for publication on the MarketPlace ?
 
