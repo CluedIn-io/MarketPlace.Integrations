@@ -1,4 +1,5 @@
 [
   { "name": "CluedIn-io/CluedIn.Enricher.HelloWorld" },
-  { "name": "github/hub" }
+  { "name": "github/hub" },
+  { "name": "whatwg/fetch" }
 ]
