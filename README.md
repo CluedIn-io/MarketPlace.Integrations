@@ -1,6 +1,6 @@
 # MarketPlace.Store
 
-This repo is used as a listing directory for all the integrations being displayed in our [MarketPlace](https://cluedin-marketplace.herokuapp.com)
+This repo is used as a listing directory for all the integrations displayed in the [CluedIn MarketPlace](https://cluedin-marketplace.herokuapp.com)
 
 ### CluedIn Integration
 
