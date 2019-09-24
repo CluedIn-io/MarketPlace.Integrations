@@ -13,21 +13,21 @@ They are 2 type of Integration:
 
 ### Connector
 
-The duty of a connector is to ingest data from an external source and create Clues for each data being ingested.
+Connectors enables CluedIn to ingest data from an external source and create Clues for each data being ingested.
 
 ### Enricher
 
-The duty of an enricher is to connect to an external product and enhance/enricher the Clue the enricher has been given.
+Enrichers enables CluedIn to connect to an external product and enhance/enricher the Clue the enricher has been given.
 
-### How to add a Connector ?
+### How to submit a connector for publication on the MarketPlace ?
 
-Submit a PR where you add an entry in the file `connectors.json`
+Submit a PR where you add an entry in [`connectors.json`](https://github.com/CluedIn-io/MarketPlace.Store/blob/master/connectors.json)
 
 (see this [example PR](https://github.com/CluedIn-io/MarketPlace.Store/pull/1))
 
-### How to add an Enricher ?
+### How to submit an enricher for publication on the MarketPlace ?
 
-Submit a PR where you add an entry in the file `connectors.json`
+Submit a PR where you add an entry in [`enrichers.json`](https://github.com/CluedIn-io/MarketPlace.Store/blob/master/enrichers.json)
 
 ### A bug or a typo?
 
