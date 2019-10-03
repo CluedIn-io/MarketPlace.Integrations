@@ -16,8 +16,5 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    for filename in ./*.json
-    do
-        node "$filename"
-    done
+    bash lint.sh
   displayName: 'Lint json files (load/run json each json file with node)'
