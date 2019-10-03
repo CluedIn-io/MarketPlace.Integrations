@@ -1,0 +1,23 @@
+name: MarkePlace.Store-$(Build.BuildId)
+
+trigger:
+- master
+
+pool:
+  vmImage: 'Ubuntu 16.04'
+
+steps:
+- checkout: self
+  persistCredentials: 'true'
+
+- task: NodeTool@0
+  inputs:
+    versionSpec: '10.x'
+  displayName: 'Install Node.js'
+
+- script: |
+    for filename in ./*.json
+    do
+        node "$filename"
+    done
+  displayName: 'Lint json files (load/run json each json file with node)'
