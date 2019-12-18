@@ -1,4 +1,9 @@
 [
   { "name": "CluedIn-io/CluedIn.Enricher.HelloWorld" },
-  { "name": "CluedIn-io/CluedIn.Enricher.Edgar" }
+  { "name": "CluedIn-io/CluedIn.Enricher.Edgar" },
+  { "name": "CluedIn-io/CluedIn.Enricher.CompanyHouse" },
+  { "name": "CluedIn-io/CluedIn.Enricher.KnowledgeGraph" },
+  { "name": "CluedIn-io/CluedIn.Enricher.Gleif" },
+  { "name": "CluedIn-io/CluedIn.Enricher.Permid" },
+  { "name": "CluedIn-io/CluedIn.Enricher.OpenCorporates" }
 ]
